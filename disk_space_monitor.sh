@@ -7,7 +7,6 @@
 # This script checks the disk space, and if it exceeds 90% usage,it sends an alert.                       #
 ###########################################################################################################
 
-
 alert=90
    df -H | awk '{print $5 " " $1}' | while read output;
 do
