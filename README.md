@@ -1,5 +1,4 @@
 # My-shell-scripts
-Apologies for the confusion. Here's an updated README file based on your script:
 
 # Disk Space Monitoring Shell Script
 
